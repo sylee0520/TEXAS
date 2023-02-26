@@ -1,5 +1,5 @@
-# TEXAS
-This is the repository of 'TEXAS: <b>TEX</b>tbook summarization <b>A</b>nd question generation for <b>S</b>tudent' for AIKU team Project!
+# 🏴󠁵󠁳󠁴󠁸󠁿 TEXAS
+This is the repository of '<b>TEXAS</b>: <b>TEX</b>tbook summarization <b>A</b>nd question generation for <b>S</b>tudent' for AIKU team Project!
 
 ## Architecture
 
